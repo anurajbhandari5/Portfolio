@@ -11,7 +11,8 @@ const Contact = ({ data }) => {
 
     const handleClick = (e) => {
        e.preventDefault();
-      window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
+       const m="anurajbhandari5@gmail.com"
+      window.open(`mailto:${m}?subject=${subject}&body=${name}: ${message}`);
     }
     
 
