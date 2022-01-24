@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name": "Anuraj Bhandari..",
+    "occupation": "Full stack Web Developer && VUI Developer",
+    "description": "Full Stack React Developer",
+    "image": "mainimage.jpg",
+    "bio": "My name is Anuraj, I'm a Full Stack Web Developer. Currently I'm seeking for a job ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "anurajbhandari5@gmail.com",
+    "phone": "+91-7906270659",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Dehradun",
+      "state": "Uttarakhand",
+      "zip": "ABC 123"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/15aXaBE9wrPJa7jCiKaiZD3pXonub3VZ3/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/anurajbhandari.anurajbhandari",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/anuraj-bhandari-391ba0190/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/bhandarianuraj/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/anurajbhandari5",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am Working On MERN stack",
+    "education": [
+      {
+        "school": "Guru Gobind Singh Indrapratha University",
+        "degree": "Bachlors in Computer Science And Information Technology",
+        "graduated": "June 2021",
+        "description": "Aggregate 8.33 till now."
+      }
+    ],
+    "work": [
+      {
+        "company": "Pep Coding Pvt. Ltd.",
+        "title": "Trannie &&  Software Development",
+        "years": "April 2020 -july 2020",
+        "description": "Developed three projects On web Automation And web Scraping."
+      },
+      {
+        "company": "Learn Code Onile",
+        "title": "Trannie && Web Development",
+        "years": "March 2020 - April 2020",
+        "description": "Learn MERN stack Development And Build some Projects"
+      },
+      {
+        "company": "GirlScript Technology Pvt. Ltd.",
+        "title": "Paticipant in GirlScript Summer Of Code 2020",
+        "years": "February 2020 - April 2020",
+        "description": "Open Source Contribution."
+      }
+    ],
+    "skills": [
+      {
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Krishy Udyaan App",
+        "category": "Created On HTML5 CSS JAVASCRIPT FIREBASE",
+        "image": "Krishy udyaan.png",
+        "url": "https://anurajbhandari5.github.io/KRiSHY-UDYAAN/"
+      },
+      {
+        "title": "COVID-19 Tracker",
+        "category": "This Tracker built with  ReactJS",
+        "image": "Corona tracker.png",
+        "url": "https://anurajbhandari5.github.io/TrackerForCovid-19/"
+      },
+      {
+        "title": "Online Education With Compressed Data",
+        "category": "This is based On HTML CSS JAVASCRIPT NODEJS",
+        "image": "OECD.png",
+        "url": "https://onlineeducationwithdatacompressing.azurewebsites.net/"
+      },
+      {
+        "title": "Slack Clone",
+        "category": "Slack Clone built with ReactJS FIREBASE",
+        "image": "salck.jpg",
+        "url": " "
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I mentored Anuraj during GSSoC'20 for the CropAi project.He worked on the frontend section of the project under me, which included designing, developing, and adding logic to design. Some of the technologies he worked on are git, Github, vanilla JS, bootstrap 4, CSS, HTML, and designing-tools (like Adobe Xd/Figma, etc.). His contribution is praised, and it aided in completing the project. He submitted all the work assigned to him well in time. I wish him the very best for his future.",
+        "user": "Rajat Sharma(Technical Associate at PolicyBazaar.com)"
+      },
+      {
+        "text": "You have worked really hard during Mern Stack development Tranning.You need to showcase your skills to the world,Best of luck for your Future.",
+        "user": "Hitesh Choudary(Foundar of LearncodeOnline)"
+      }
+    ]
+  }
+}
