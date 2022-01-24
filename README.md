@@ -1,4 +1,4 @@
-![ReactJS Resume Website](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
+#Click_Below
 
 ## <a href="https://anurajbhandari.netlify.app/">LIVE</a>
 
